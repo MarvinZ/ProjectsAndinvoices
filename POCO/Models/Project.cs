@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POCO.Models
 {
-    public class Project
+    public class Project : Audit
 
     {
 
